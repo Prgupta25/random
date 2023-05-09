@@ -1,0 +1,76 @@
+.centered{
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 5px 5px 5px whitesmoke;
+}
+.textarea{
+    position: absolute;
+    top: 58%;
+    left: 39%;
+    font-size: 30px;
+}
+
+
+.hello, .hello2 {
+    width: 100%;
+    border: none;
+    resize: none;   
+    outline: none;
+    height: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid black;
+}
+
+
+.password{
+    margin-top: 0.5rem;
+    position: absolute;
+    top: 64%;
+    left: 39%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.pqr .btn {
+    position: absolute;
+    top: 75%;
+    left: 42.8%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(209, 126, 140, 0.963);;
+    color: white;
+    font-size: 10px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .pqr .btn:hover {
+    background-color: rgba(209, 126, 140, 0.963);;
+  }
+  .pqr .btn2 {
+    position: absolute;
+    top: 75%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgba(171, 100, 111, 0.749);;
+    color: white;
+    font-size: 10px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .pqr .btn2:hover {
+    background-color: rgba(171, 100, 111, 0.749);;
+  }
